@@ -10,8 +10,8 @@
 - [x] respect de la consigne
 ###### *front*
 - [x] correspond exactement à la maquette
-- [x] se rapproche de la maquette
-- [x] ne correspond pas à la maquette
+- [ ] se rapproche de la maquette
+- [ ] ne correspond pas à la maquette
 ###### *back-end*
 - [x] récupération des données avec la méthode *post*
 - [x] données enregistrées dans *$table*
